@@ -2,3 +2,6 @@
 
 This is my file#3..
 
+This is the update from master branch after feature-a branch merge into master.
+
+This is the update from feature-a branch after above update in master(not commited in master).
