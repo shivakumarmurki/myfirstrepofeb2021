@@ -5,6 +5,7 @@ This is my file#1..
 This is first update in Master branch after Commit #2.
 
 
+<<<<<<< HEAD
 This is a first change in file1.txt after first cloning from online.
 
 
@@ -14,3 +15,5 @@ This is the second change from first cloning.
 This is the change in file1.txt after secong cloning from online.
 
 
+=======
+>>>>>>> parent of 885ff9f... Commit #14 - file1.txt modified  first clone from online
